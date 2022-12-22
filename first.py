@@ -7,7 +7,7 @@ name = input('What is your name? ')
 fav_color = input('what is your favourite color? ')
 print(name + ' likes ' + fav_color)
 birth_year = input('Birth year: ')
-age = 2022 - int(birth_year)
+age = 2021 - int(birth_year)
 print(age)
 
 weight = input('Weight (lbs): ')
