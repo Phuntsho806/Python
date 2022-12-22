@@ -17,8 +17,8 @@ print(weight_kg) '''
 course = 'Hi John'
 print(course[1:-1])
 #formatted string
-first = 'John'
-last = 'Smith'
+first = 'Phuntsho'
+last = 'Wangmo'
 msg = f'{first} [{last}] is a coder'
 print(msg)
 print(len(course))
