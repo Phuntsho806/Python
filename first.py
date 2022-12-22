@@ -14,7 +14,7 @@ weight = input('Weight (lbs): ')
 weight_kg = int(weight) * 0.45
 print(weight_kg) '''
 
-course = 'Hi John'
+course = 'Hi Pema'
 print(course[1:-1])
 #formatted string
 first = 'Phuntsho'
